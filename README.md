@@ -1,4 +1,4 @@
-# MehmetISCAN
+# COPYRIGHT
 
 All public and private codes shared within this GitHub repository, as well as any and all materials referenced or linked in associated YouTube videos, are exclusively under the control and ownership of PhiniteLab. Full and absolute ownership rights, including intellectual property rights and rights pertaining to the control of this GitHub channel and its contents, are vested solely in the undersigned owner, Mehmet İŞCAN.
 
